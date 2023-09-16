@@ -181,6 +181,10 @@
         width: 50px;
     }
 
+    .modal-full .title-produto {
+        margin-top: 0px !important;
+    }
+
     .modal-full .dados-produto {
         padding-left: 15px;
         padding-right: 15px;
