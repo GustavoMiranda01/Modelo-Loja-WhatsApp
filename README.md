@@ -5,5 +5,5 @@
 <p>Com essas tecnologias consegui desenvolver um site interativo para Semi-Joias e claro para outros ramos.</p>
 <br>
 <p>Ele ficou bem interativo e intuitivo, que leva o cliente direto ao finalizar pedido por WhatsApp.</p>
-<p>Ver Projeto <a href="https://gustavomiranda01.github.io/Modelo-Loja-WhatsApp/">Menu-Delivery</a></p>
+<p>Ver Projeto <a href="https://gustavomiranda01.github.io/Modelo-Loja-WhatsApp/">Loja-Modelo-Semijoias</a></p>
 <img src="./assets/img/Ecommerce.png">
