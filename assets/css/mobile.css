@@ -6,8 +6,8 @@
 
     .col-one {
         padding-top: 0px;
-        padding-left: 9px !important;
-        padding-right: 18px !important;
+        padding-left: 11px !important;
+        padding-right: 26px !important;
         padding-bottom: 0px;
     }
 
@@ -96,8 +96,8 @@
 
     .card-item {
         width: 187px;
-        height: 297px;
-        padding-left: 14px;
+        height: 281px;
+        padding-left: 17px;
         justify-content: center;
         align-items: start;
     }
@@ -115,7 +115,7 @@
 
     .card-item .price-produto {
         margin-bottom: 0px !important;
-        font-size: 22px !important;
+        font-size: 20px !important;
     }
 
     .card-item:hover .price-produto {
@@ -140,6 +140,10 @@
 
     .reserva {
         padding-bottom: 50px;
+    }
+
+    .card {
+        font-size: 16px!important;
     }
 
     .card-secondary {
